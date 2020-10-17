@@ -1,20 +1,21 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Rudrashish Pal
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
-baseurl: "/bay" # the subpath of the site
+  Welcome to my webpage.
+baseurl: "" # the subpath of the site
 url: "https://rudrashishpal.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 # google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: About
-      slug: /
-    - name: Work
-    - name: Blog
+    - name: Education
+    - name: Experience
+    - name: Research
+    - name: Gallery
+    - name: Resume
 
 footer:
   show_powered_by: true
@@ -22,6 +23,8 @@ footer:
     - name: Email
       value: rudrashishpal@gmail.com
       link: mailto:rudrashishpal@gmail.com
+    - name: Whatsapp
+      value: (+91)-9409089265
   follow:
     - name: Facebook
       link: http://facebook.com/rudrashishpal
@@ -29,6 +32,9 @@ footer:
       link: http://linkedin.com/in/rudrashishpal
     - name: GitHub
       link: http://github.com/rudrashishpal
+    - name: Instagram
+      link: https://www.instagram.com/palrudrashish/?hl=en
+
 
 # Build settings
 markdown: kramdown
